@@ -1,6 +1,6 @@
 [package]
 name = "pest_extra"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 description = "Provides additional functionality for the Pest parser"
 homepage = "https://github.com/xoreaxlmbdx/pest_extra"
